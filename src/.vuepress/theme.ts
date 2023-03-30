@@ -14,7 +14,7 @@ export default hopeTheme({
   home:"/",
   logo: "/logo.svg",
   favicon: "/favicon.ico",
-  repo: "Optkt/opticmanual",
+  repo: "https://gitee.com/optkt/opticmanual",
   docsBranch: "master",
   docsDir: "src",
 
@@ -41,7 +41,7 @@ export default hopeTheme({
 
       // page meta
       metaLocales: {
-        editLink: "在 Github 上编辑此页",
+        editLink: "在 Gitee 上编辑此页",
       },
     }, 
     "/en/": {
@@ -56,7 +56,7 @@ export default hopeTheme({
       displayFooter: true,
 
       metaLocales: {
-        editLink: "Edit this page on Github",
+        editLink: "Edit this page on Gitee",
       },
     },
 
