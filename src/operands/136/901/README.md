@@ -1,6 +1,8 @@
 ---
 title: 用zpl宏优化
 icon: mesh
+prev: /operands/136/900
+next: /operands/136/902
 collapsible: false;
 category:
   - 操作数

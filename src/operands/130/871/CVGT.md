@@ -1,6 +1,8 @@
 ---
 title: CVGT
 icon: state
+prev: CTVA
+next: CVLT
 category:
   - 操作数
 ---

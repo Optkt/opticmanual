@@ -1,6 +1,8 @@
 ---
 title: 物理光学传播
 icon: float
+prev: /operands/135/895
+next: /operands/135/897
 collapsible: false;
 category:
   - 操作数

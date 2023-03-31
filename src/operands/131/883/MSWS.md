@@ -1,6 +1,8 @@
 ---
 title: MSWS
 icon: state
+prev: MSWA
+next: MSWT
 category:
   - 操作数
 ---

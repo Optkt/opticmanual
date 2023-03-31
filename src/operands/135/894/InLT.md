@@ -1,6 +1,8 @@
 ---
 title: InLT
 icon: state
+prev: InGT
+next: InVA
 category:
   - 操作数
 ---

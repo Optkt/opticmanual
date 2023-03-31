@@ -1,6 +1,8 @@
 ---
 title: ETGT
 icon: state
+prev: DMVA
+next: ETLT
 category:
   - 操作数
 ---

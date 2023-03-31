@@ -1,6 +1,8 @@
 ---
 title: PROB
 icon: state
+prev: OSUM
+next: PROD
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: POWP
 icon: state
+prev: POWF
+next: POWR
 category:
   - 操作数
 ---

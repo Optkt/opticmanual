@@ -1,6 +1,8 @@
 ---
 title: XXET
 icon: state
+prev: XXEG
+next: ZTHI
 category:
   - 操作数
 ---

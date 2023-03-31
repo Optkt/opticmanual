@@ -1,6 +1,8 @@
 ---
 title: GTCE
 icon: state
+prev: GCOS
+next: INDX
 category:
   - 操作数
 ---

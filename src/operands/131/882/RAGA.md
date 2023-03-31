@@ -1,6 +1,8 @@
 ---
 title: RAGA
 icon: state
+prev: RAEN
+next: RAGB
 category:
   - 操作数
 ---

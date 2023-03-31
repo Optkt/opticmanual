@@ -1,6 +1,8 @@
 ---
 title: 包围圈能量
 icon: engine
+prev: /operands/131/888
+next: /operands/131/891
 collapsible: false;
 category:
   - 操作数

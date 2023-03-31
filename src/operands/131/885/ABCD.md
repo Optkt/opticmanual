@@ -1,6 +1,7 @@
 ---
 title: ABCD
 icon: state
+next: ANAC
 category:
   - 操作数
 ---

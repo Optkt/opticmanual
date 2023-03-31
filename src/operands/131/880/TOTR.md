@@ -1,6 +1,8 @@
 ---
 title: TOTR
 icon: state
+prev: TMAS
+next: VOLU
 category:
   - 操作数
 ---

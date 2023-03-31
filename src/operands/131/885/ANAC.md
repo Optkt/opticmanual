@@ -1,6 +1,8 @@
 ---
 title: ANAC
 icon: state
+prev: ABCD
+next: ANAR
 category:
   - 操作数
 ---

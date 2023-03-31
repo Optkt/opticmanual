@@ -1,6 +1,8 @@
 ---
 title: PARX
 icon: state
+prev: PARR
+next: PARY
 category:
   - 操作数
 ---

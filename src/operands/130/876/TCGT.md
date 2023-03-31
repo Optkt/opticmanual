@@ -1,6 +1,7 @@
 ---
 title: TCGT
 icon: state
+next: TCLT
 category:
   - 操作数
 ---

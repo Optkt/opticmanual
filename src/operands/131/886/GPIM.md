@@ -1,6 +1,7 @@
 ---
 title: GPIM
 icon: state
+next: GPRT
 category:
   - 操作数
 ---

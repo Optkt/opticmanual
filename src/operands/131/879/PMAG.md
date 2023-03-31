@@ -1,6 +1,8 @@
 ---
 title: PMAG
 icon: state
+prev: PIMH
+next: POWF
 category:
   - 操作数
 ---

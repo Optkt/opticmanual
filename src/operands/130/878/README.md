@@ -1,6 +1,7 @@
 ---
 title: 非序列物体数据约束
 icon: semantic
+prev: /operands/130/877
 collapsible: false;
 category:
   - 操作数

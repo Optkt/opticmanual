@@ -1,6 +1,8 @@
 ---
 title: DISA
 icon: state
+prev: DIMX
+next: DISC
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: BIOC
 icon: state
+prev: AXCL
+next: BIOD
 category:
   - 操作数
 ---

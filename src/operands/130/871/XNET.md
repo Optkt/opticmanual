@@ -1,6 +1,8 @@
 ---
 title: XNET
 icon: state
+prev: XNEA
+next: XNEG
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: OOFF
 icon: state
+prev: GOTO
+next: SKIN
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: TRCX
 icon: state
+prev: TRAY
+next: TRCY
 category:
   - 操作数
 ---

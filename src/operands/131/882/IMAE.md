@@ -1,6 +1,8 @@
 ---
 title: IMAE
 icon: state
+prev: HHCN
+next: MNRE
 category:
   - 操作数
 ---

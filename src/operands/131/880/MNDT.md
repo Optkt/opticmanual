@@ -1,6 +1,8 @@
 ---
 title: MNDT
 icon: state
+prev: CVOL
+next: MXDT
 category:
   - 操作数
 ---

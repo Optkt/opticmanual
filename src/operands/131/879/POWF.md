@@ -1,6 +1,8 @@
 ---
 title: POWF
 icon: state
+prev: PMAG
+next: POWP
 category:
   - 操作数
 ---

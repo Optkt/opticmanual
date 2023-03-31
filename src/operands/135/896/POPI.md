@@ -1,6 +1,7 @@
 ---
 title: POPI
 icon: state
+prev: POPD
 category:
   - 操作数
 ---

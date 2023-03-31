@@ -1,6 +1,8 @@
 ---
 title: InVA
 icon: state
+prev: InLT
+next: LPTD
 category:
   - 操作数
 ---

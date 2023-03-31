@@ -1,6 +1,8 @@
 ---
 title: REAA
 icon: state
+prev: RANG
+next: REAB
 category:
   - 操作数
 ---

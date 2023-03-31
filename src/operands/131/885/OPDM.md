@@ -1,6 +1,8 @@
 ---
 title: OPDM
 icon: state
+prev: OPDC
+next: OPDX
 category:
   - 操作数
 ---

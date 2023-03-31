@@ -1,6 +1,8 @@
 ---
 title: TRAD
 icon: state
+prev: TRAC
+next: TRAE
 category:
   - 操作数
 ---

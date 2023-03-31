@@ -1,6 +1,8 @@
 ---
 title: OPLT
 icon: state
+prev: OPGT
+next: OPVA
 category:
   - 操作数
 ---

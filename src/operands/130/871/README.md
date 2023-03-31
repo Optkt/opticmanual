@@ -1,6 +1,8 @@
 ---
 title: 镜头参数约束
 icon: semantic
+prev: /operands/130/870
+next: /operands/130/872
 collapsible: false;
 category:
   - 操作数

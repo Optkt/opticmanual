@@ -1,6 +1,7 @@
 ---
 title: EFNO
 icon: state
+prev: RELI
 category:
   - 操作数
 ---

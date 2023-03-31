@@ -1,6 +1,8 @@
 ---
 title: SPHA
 icon: state
+prev: SPCH
+next: TRAC
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: CEVA
 icon: state
+prev: CELT
+next: CIGT
 category:
   - 操作数
 ---

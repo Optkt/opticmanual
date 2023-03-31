@@ -1,6 +1,8 @@
 ---
 title: DIMX
 icon: state
+prev: COMA
+next: DISA
 category:
   - 操作数
 ---

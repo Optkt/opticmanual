@@ -1,6 +1,8 @@
 ---
 title: TRAC
 icon: state
+prev: SPHA
+next: TRAD
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: GENC
 icon: state
+prev: ERFP
+next: GENF
 category:
   - 操作数
 ---

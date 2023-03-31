@@ -1,6 +1,8 @@
 ---
 title: BSER
 icon: state
+prev: BIOD
+next: COMA
 category:
   - 操作数
 ---

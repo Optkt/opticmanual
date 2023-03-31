@@ -1,6 +1,8 @@
 ---
 title: DYDY
 icon: state
+prev: DYDX
+next: HHCN
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: NTXG
 icon: state
+prev: NSRM
+next: NTXL
 category:
   - 操作数
 ---

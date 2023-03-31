@@ -1,6 +1,8 @@
 ---
 title: MAXX
 icon: state
+prev: LOGT
+next: MINN
 category:
   - 操作数
 ---

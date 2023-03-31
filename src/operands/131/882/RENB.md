@@ -1,6 +1,8 @@
 ---
 title: RENB
 icon: state
+prev: RENA
+next: RENC
 category:
   - 操作数
 ---

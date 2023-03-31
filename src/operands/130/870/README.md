@@ -1,6 +1,7 @@
 ---
 title: 系统数据
 icon: semantic
+next: /operands/130/871
 collapsible: false;
 category:
   - 操作数

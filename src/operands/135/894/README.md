@@ -1,6 +1,8 @@
 ---
 title: 梯度折射率控制操作数
 icon: float
+prev: /operands/135/893
+next: /operands/135/895
 collapsible: false;
 category:
   - 操作数

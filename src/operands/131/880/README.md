@@ -1,6 +1,8 @@
 ---
 title: 镜头属性约束
 icon: engine
+prev: /operands/131/879
+next: /operands/131/881
 collapsible: false;
 category:
   - 操作数

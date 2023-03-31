@@ -1,6 +1,8 @@
 ---
 title: TTLT
 icon: state
+prev: TTHI
+next: TTVA
 category:
   - 操作数
 ---

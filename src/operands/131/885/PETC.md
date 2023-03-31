@@ -1,6 +1,8 @@
 ---
 title: PETC
 icon: state
+prev: OSCD
+next: PETZ
 category:
   - 操作数
 ---

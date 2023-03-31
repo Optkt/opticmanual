@@ -1,6 +1,7 @@
 ---
 title: ABSO
 icon: state
+next: ACOS
 category:
   - 操作数
 ---

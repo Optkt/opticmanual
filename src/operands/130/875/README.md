@@ -1,6 +1,8 @@
 ---
 title: 额外数据约束
 icon: semantic
+prev: /operands/130/874
+next: /operands/130/876
 collapsible: false;
 category:
   - 操作数

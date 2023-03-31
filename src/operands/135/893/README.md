@@ -1,6 +1,8 @@
 ---
 title: 高斯光束数据
 icon: float
+prev: /operands/135/892
+next: /operands/135/894
 collapsible: false;
 category:
   - 操作数

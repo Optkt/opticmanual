@@ -1,6 +1,7 @@
 ---
 title: FICL
 icon: state
+next: FICP
 category:
   - 操作数
 ---

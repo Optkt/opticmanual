@@ -1,6 +1,8 @@
 ---
 title: GLCR
 icon: state
+prev: GLCC
+next: GLCX
 category:
   - 操作数
 ---

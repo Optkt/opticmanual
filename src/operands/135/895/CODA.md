@@ -1,6 +1,8 @@
 ---
 title: CODA
 icon: state
+prev: CMVA
+next: CEGT
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: GBSD
 icon: state
+prev: GBPZ
+next: GBSP
 category:
   - 操作数
 ---

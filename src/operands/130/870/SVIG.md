@@ -1,6 +1,8 @@
 ---
 title: SVIG
 icon: state
+prev: PRIM
+next: WLEN
 category:
   - 操作数
 ---

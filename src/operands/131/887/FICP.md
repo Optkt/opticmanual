@@ -1,6 +1,8 @@
 ---
 title: FICP
 icon: state
+prev: FICL
+next: POPD
 category:
   - 操作数
 ---

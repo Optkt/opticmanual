@@ -1,6 +1,8 @@
 ---
 title: MNRI
 icon: state
+prev: MNRE
+next: MXRE
 category:
   - 操作数
 ---

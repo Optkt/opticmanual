@@ -1,6 +1,8 @@
 ---
 title: MSWA
 icon: state
+prev: MECT
+next: MSWS
 category:
   - 操作数
 ---

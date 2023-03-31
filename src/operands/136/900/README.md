@@ -1,6 +1,8 @@
 ---
 title: 控制评价函数操作数
 icon: mesh
+prev: /operands/136/899
+next: /operands/136/901
 collapsible: false;
 category:
   - 操作数

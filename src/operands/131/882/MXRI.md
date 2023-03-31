@@ -1,6 +1,8 @@
 ---
 title: MXRI
 icon: state
+prev: MXRE
+next: OPTH
 category:
   - 操作数
 ---

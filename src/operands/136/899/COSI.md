@@ -1,6 +1,8 @@
 ---
 title: COSI
 icon: state
+prev: CONS
+next: DIFF
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: EFFL
 icon: state
+prev: ENPP
+next: EFLX
 category:
   - 操作数
 ---

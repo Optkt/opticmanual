@@ -1,6 +1,8 @@
 ---
 title: OSCD
 icon: state
+prev: OPDX
+next: PETC
 category:
   - 操作数
 ---

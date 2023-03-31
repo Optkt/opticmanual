@@ -1,6 +1,8 @@
 ---
 title: OBSN
 icon: state
+prev: LINV
+next: PIMH
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: NTXL
 icon: state
+prev: NTXG
+next: NTXV
 category:
   - 操作数
 ---

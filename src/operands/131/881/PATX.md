@@ -1,6 +1,8 @@
 ---
 title: PATX
 icon: state
+prev: PARZ
+next: PATY
 category:
   - 操作数
 ---

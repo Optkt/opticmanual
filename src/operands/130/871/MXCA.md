@@ -1,6 +1,8 @@
 ---
 title: MXCA
 icon: state
+prev: MNPD
+next: MXCG
 category:
   - 操作数
 ---

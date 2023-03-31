@@ -1,6 +1,8 @@
 ---
 title: OMMI
 icon: state
+prev: MXSD
+next: OMMX
 category:
   - 操作数
 ---

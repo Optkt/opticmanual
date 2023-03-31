@@ -1,6 +1,8 @@
 ---
 title: PETZ
 icon: state
+prev: PETC
+next: RSCE
 category:
   - 操作数
 ---

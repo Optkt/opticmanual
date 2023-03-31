@@ -1,6 +1,7 @@
 ---
 title: GMTA
 icon: state
+next: GMTS
 category:
   - 操作数
 ---

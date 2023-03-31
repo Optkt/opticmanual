@@ -1,6 +1,8 @@
 ---
 title: RAGZ
 icon: state
+prev: RAGY
+next: RAID
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: MNET
 icon: state
+prev: MNEG
+next: MNPD
 category:
   - 操作数
 ---

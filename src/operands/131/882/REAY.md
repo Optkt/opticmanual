@@ -1,6 +1,8 @@
 ---
 title: REAY
 icon: state
+prev: REAX
+next: REAZ
 category:
   - 操作数
 ---

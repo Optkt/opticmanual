@@ -1,6 +1,7 @@
 ---
 title: ZTHI
 icon: state
+prev: XXET
 category:
   - 操作数
 ---

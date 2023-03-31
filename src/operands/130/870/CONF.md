@@ -1,6 +1,7 @@
 ---
 title: CONF
 icon: state
+next: IMSF
 category:
   - 操作数
 ---

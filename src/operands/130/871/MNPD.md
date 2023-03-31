@@ -1,6 +1,8 @@
 ---
 title: MNPD
 icon: state
+prev: MNET
+next: MXCA
 category:
   - 操作数
 ---

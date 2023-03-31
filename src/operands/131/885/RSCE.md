@@ -1,6 +1,8 @@
 ---
 title: RSCE
 icon: state
+prev: PETZ
+next: RSCH
 category:
   - 操作数
 ---

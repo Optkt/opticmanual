@@ -1,6 +1,8 @@
 ---
 title: NPYL
 icon: state
+prev: NPYG
+next: NPYV
 category:
   - 操作数
 ---

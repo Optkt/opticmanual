@@ -1,6 +1,7 @@
 ---
 title: DLTN
 icon: state
+next: GRMN
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: MNIN
 icon: state
+prev: MNAB
+next: MNPD
 category:
   - 操作数
 ---

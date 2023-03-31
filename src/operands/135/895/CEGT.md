@@ -1,6 +1,8 @@
 ---
 title: CEGT
 icon: state
+prev: CODA
+next: CELT
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: 多重结构数据
 icon: semantic
+prev: /operands/130/876
+next: /operands/130/878
 collapsible: false;
 category:
   - 操作数

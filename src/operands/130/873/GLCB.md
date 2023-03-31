@@ -1,6 +1,8 @@
 ---
 title: GLCB
 icon: state
+prev: GLCA
+next: GLCC
 category:
   - 操作数
 ---

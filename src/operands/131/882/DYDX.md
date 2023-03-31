@@ -1,6 +1,8 @@
 ---
 title: DYDX
 icon: state
+prev: DXDY
+next: DYDY
 category:
   - 操作数
 ---

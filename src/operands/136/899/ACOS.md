@@ -1,6 +1,8 @@
 ---
 title: ACOS
 icon: state
+prev: ABSO
+next: ASIN
 category:
   - 操作数
 ---

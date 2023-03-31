@@ -1,6 +1,7 @@
 ---
 title: POPD
 icon: state
+prev: FICP
 category:
   - 操作数
 ---

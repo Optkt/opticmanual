@@ -1,6 +1,8 @@
 ---
 title: SINE
 icon: state
+prev: SUMM
+next: TANG
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: MNCV
 icon: state
+prev: MNCT
+next: MNEA
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: NORY
 icon: state
+prev: NORX
+next: NORZ
 category:
   - 操作数
 ---

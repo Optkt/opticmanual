@@ -1,6 +1,8 @@
 ---
 title: DMLT
 icon: state
+prev: DMGT
+next: DMVA
 category:
   - 操作数
 ---

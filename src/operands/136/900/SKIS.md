@@ -1,6 +1,8 @@
 ---
 title: SKIS
 icon: state
+prev: SKIN
+next: USYM
 category:
   - 操作数
 ---

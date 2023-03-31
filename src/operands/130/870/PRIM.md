@@ -1,6 +1,8 @@
 ---
 title: PRIM
 icon: state
+prev: IMSF
+next: SVIG
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: 近轴光线数据约束
 icon: engine
+prev: /operands/131/880
+next: /operands/131/882
 collapsible: false;
 category:
   - 操作数

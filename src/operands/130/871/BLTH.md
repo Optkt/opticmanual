@@ -1,6 +1,8 @@
 ---
 title: BLTH
 icon: state
+prev: CVVA
+next: DMGT
 category:
   - 操作数
 ---

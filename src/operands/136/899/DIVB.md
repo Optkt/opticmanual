@@ -1,6 +1,8 @@
 ---
 title: DIVB
 icon: state
+prev: DIFF
+next: DIVI
 category:
   - 操作数
 ---

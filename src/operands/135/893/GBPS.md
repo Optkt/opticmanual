@@ -1,6 +1,8 @@
 ---
 title: GBPS
 icon: state
+prev: GBPR
+next: GBPW
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: NPZG
 icon: state
+prev: NPYV
+next: NPZL
 category:
   - 操作数
 ---

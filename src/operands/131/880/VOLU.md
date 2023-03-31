@@ -1,6 +1,8 @@
 ---
 title: VOLU
 icon: state
+prev: TOTR
+next: NORX
 category:
   - 操作数
 ---

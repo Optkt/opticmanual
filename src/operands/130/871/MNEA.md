@@ -1,6 +1,8 @@
 ---
 title: MNEA
 icon: state
+prev: MNCV
+next: MNEG
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: ANAR
 icon: state
+prev: ANAC
+next: ANAX
 category:
   - 操作数
 ---

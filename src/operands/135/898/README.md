@@ -1,6 +1,7 @@
 ---
 title: 灵敏度公差数据
 icon: float
+prev: /operands/135/897
 collapsible: false;
 category:
   - 操作数

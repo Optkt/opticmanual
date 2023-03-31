@@ -1,6 +1,7 @@
 ---
 title: FDRE
 icon: state
+prev: FDMO
 category:
   - 操作数
 ---

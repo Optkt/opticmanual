@@ -1,6 +1,8 @@
 ---
 title: XDLT
 icon: state
+prev: XDGT
+next: XDVA
 category:
   - 操作数
 ---

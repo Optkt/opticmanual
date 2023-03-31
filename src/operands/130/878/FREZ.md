@@ -1,6 +1,7 @@
 ---
 title: FREZ
 icon: state
+next: NPGT
 category:
   - 操作数
 ---

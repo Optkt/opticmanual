@@ -1,6 +1,8 @@
 ---
 title: DIST
 icon: state
+prev: DISG
+next: FCGS
 category:
   - 操作数
 ---

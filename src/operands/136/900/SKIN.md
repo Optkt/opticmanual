@@ -1,6 +1,8 @@
 ---
 title: SKIN
 icon: state
+prev: OOFF
+next: SKIS
 category:
   - 操作数
 ---

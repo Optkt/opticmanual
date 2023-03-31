@@ -1,6 +1,8 @@
 ---
 title: MCOL
 icon: state
+prev: MCOG
+next: MCOV
 category:
   - 操作数
 ---

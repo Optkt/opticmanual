@@ -1,6 +1,8 @@
 ---
 title: BIOD
 icon: state
+prev: BIOC
+next: BSER
 category:
   - 操作数
 ---

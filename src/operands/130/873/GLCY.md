@@ -1,6 +1,8 @@
 ---
 title: GLCY
 icon: state
+prev: GLCX
+next: GLCZ
 category:
   - 操作数
 ---

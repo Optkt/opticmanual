@@ -1,6 +1,8 @@
 ---
 title: CVVA
 icon: state
+prev: CVLT
+next: BLTH
 category:
   - 操作数
 ---

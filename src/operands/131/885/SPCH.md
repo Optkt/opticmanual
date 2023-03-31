@@ -1,6 +1,8 @@
 ---
 title: SPCH
 icon: state
+prev: SMIA
+next: SPHA
 category:
   - 操作数
 ---

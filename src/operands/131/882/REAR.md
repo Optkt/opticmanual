@@ -1,6 +1,8 @@
 ---
 title: REAR
 icon: state
+prev: REAC
+next: REAX
 category:
   - 操作数
 ---

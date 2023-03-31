@@ -1,6 +1,7 @@
 ---
 title: PANA
 icon: state
+next: PANB
 category:
   - 操作数
 ---

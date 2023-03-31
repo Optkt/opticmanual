@@ -1,6 +1,8 @@
 ---
 title: NSTW
 icon: state
+prev: NSTR
+next: REVR
 category:
   - 操作数
 ---

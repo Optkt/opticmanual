@@ -1,6 +1,7 @@
 ---
 title: 一阶光学性能
 icon: engine
+next: /operands/131/880
 collapsible: false;
 category:
   - 操作数

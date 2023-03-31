@@ -1,6 +1,8 @@
 ---
 title: DMGT
 icon: state
+prev: BLTH
+next: DMLT
 category:
   - 操作数
 ---

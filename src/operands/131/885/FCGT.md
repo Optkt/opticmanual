@@ -1,6 +1,8 @@
 ---
 title: FCGT
 icon: state
+prev: FCGS
+next: FCUR
 category:
   - 操作数
 ---

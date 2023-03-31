@@ -1,6 +1,8 @@
 ---
 title: NORZ
 icon: state
+prev: NORY
+next: NORD
 category:
   - 操作数
 ---

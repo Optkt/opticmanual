@@ -1,6 +1,8 @@
 ---
 title: MCOV
 icon: state
+prev: MCOL
+next: ZTHI
 category:
   - 操作数
 ---

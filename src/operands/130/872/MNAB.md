@@ -1,6 +1,8 @@
 ---
 title: MNAB
 icon: state
+prev: INDX
+next: MNIN
 category:
   - 操作数
 ---

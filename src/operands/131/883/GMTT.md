@@ -1,6 +1,8 @@
 ---
 title: GMTT
 icon: state
+prev: GMTS
+next: MECA
 category:
   - 操作数
 ---

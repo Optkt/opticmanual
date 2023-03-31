@@ -1,6 +1,8 @@
 ---
 title: EXPP
 icon: state
+prev: EXPD
+next: ISFN
 category:
   - 操作数
 ---

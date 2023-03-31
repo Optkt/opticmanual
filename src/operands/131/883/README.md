@@ -1,6 +1,8 @@
 ---
 title: Mtf数据
 icon: engine
+prev: /operands/131/882
+next: /operands/131/884
 collapsible: false;
 category:
   - 操作数

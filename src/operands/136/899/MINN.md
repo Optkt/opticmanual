@@ -1,6 +1,8 @@
 ---
 title: MINN
 icon: state
+prev: MAXX
+next: OPGT
 category:
   - 操作数
 ---

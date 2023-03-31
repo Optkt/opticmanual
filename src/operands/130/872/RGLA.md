@@ -1,6 +1,7 @@
 ---
 title: RGLA
 icon: state
+prev: MXPD
 category:
   - 操作数
 ---

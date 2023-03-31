@@ -1,6 +1,8 @@
 ---
 title: CONS
 icon: state
+prev: ATAN
+next: COSI
 category:
   - 操作数
 ---

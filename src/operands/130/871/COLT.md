@@ -1,6 +1,8 @@
 ---
 title: COLT
 icon: state
+prev: COGT
+next: COVA
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: ISFN
 icon: state
+prev: EXPP
+next: ISNA
 category:
   - 操作数
 ---

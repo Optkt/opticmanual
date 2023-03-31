@@ -1,6 +1,8 @@
 ---
 title: WLEN
 icon: state
+prev: SVIG
+next: CVIG
 category:
   - 操作数
 ---

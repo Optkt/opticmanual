@@ -1,6 +1,8 @@
 ---
 title: ENPP
 icon: state
+prev: AMAG
+next: EFFL
 category:
   - 操作数
 ---

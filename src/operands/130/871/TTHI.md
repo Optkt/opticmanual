@@ -1,6 +1,8 @@
 ---
 title: TTHI
 icon: state
+prev: TTGT
+next: TTLT
 category:
   - 操作数
 ---

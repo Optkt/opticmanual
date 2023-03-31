@@ -1,6 +1,7 @@
 ---
 title: ZERN
 icon: state
+prev: TRCY
 category:
   - 操作数
 ---

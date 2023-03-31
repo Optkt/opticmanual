@@ -1,6 +1,8 @@
 ---
 title: MTFA
 icon: state
+prev: MSWT
+next: MTFS
 category:
   - 操作数
 ---

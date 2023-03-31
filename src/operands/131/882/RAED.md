@@ -1,6 +1,8 @@
 ---
 title: RAED
 icon: state
+prev: PLEN
+next: RAEN
 category:
   - 操作数
 ---

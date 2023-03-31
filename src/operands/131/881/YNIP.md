@@ -1,6 +1,7 @@
 ---
 title: YNIP
 icon: state
+prev: PATY
 category:
   - 操作数
 ---

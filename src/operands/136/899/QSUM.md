@@ -1,6 +1,8 @@
 ---
 title: QSUM
 icon: state
+prev: PROD
+next: RECI
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: SCUR
 icon: state
+prev: NORD
+next: SDRV
 category:
   - 操作数
 ---

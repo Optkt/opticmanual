@@ -1,6 +1,8 @@
 ---
 title: MNCA
 icon: state
+prev: FTLT
+next: MNCG
 category:
   - 操作数
 ---

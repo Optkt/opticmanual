@@ -1,6 +1,8 @@
 ---
 title: RECI
 icon: state
+prev: QSUM
+next: SQRT
 category:
   - 操作数
 ---

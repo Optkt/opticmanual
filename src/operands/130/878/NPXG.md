@@ -1,6 +1,8 @@
 ---
 title: NPXG
 icon: state
+prev: NPVA
+next: NPXL
 category:
   - 操作数
 ---

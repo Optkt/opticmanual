@@ -1,6 +1,8 @@
 ---
 title: PLEN
 icon: state
+prev: OPTH
+next: RAED
 category:
   - 操作数
 ---

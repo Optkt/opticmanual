@@ -1,6 +1,8 @@
 ---
 title: PARB
 icon: state
+prev: PARA
+next: PARC
 category:
   - 操作数
 ---

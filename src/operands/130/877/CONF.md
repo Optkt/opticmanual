@@ -1,6 +1,7 @@
 ---
 title: CONF
 icon: state
+next: MCOG
 category:
   - 操作数
 ---

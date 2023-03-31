@@ -1,6 +1,8 @@
 ---
 title: NTZL
 icon: state
+prev: NTZG
+next: NTZV
 category:
   - 操作数
 ---

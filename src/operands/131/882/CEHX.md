@@ -1,6 +1,7 @@
 ---
 title: CEHX
 icon: state
+next: CEHY
 category:
   - 操作数
 ---

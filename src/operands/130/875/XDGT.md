@@ -1,6 +1,7 @@
 ---
 title: XDGT
 icon: state
+next: XDLT
 category:
   - 操作数
 ---

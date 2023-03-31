@@ -1,6 +1,8 @@
 ---
 title: DIVI
 icon: state
+prev: DIVB
+next: EQUA
 category:
   - 操作数
 ---

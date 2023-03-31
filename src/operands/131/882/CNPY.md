@@ -1,6 +1,8 @@
 ---
 title: CNPY
 icon: state
+prev: CNPX
+next: DXDX
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: GOTO
 icon: state
+prev: ENDX
+next: OOFF
 category:
   - 操作数
 ---

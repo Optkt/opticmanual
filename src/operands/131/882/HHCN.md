@@ -1,6 +1,8 @@
 ---
 title: HHCN
 icon: state
+prev: DYDY
+next: IMAE
 category:
   - 操作数
 ---

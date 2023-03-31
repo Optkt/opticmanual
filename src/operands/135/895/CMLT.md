@@ -1,6 +1,8 @@
 ---
 title: CMLT
 icon: state
+prev: CMGT
+next: CMVA
 category:
   - 操作数
 ---

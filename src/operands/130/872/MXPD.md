@@ -1,6 +1,8 @@
 ---
 title: MXPD
 icon: state
+prev: MXIN
+next: RGLA
 category:
   - 操作数
 ---

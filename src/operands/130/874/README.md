@@ -1,6 +1,8 @@
 ---
 title: 参数数据约束
 icon: semantic
+prev: /operands/130/873
+next: /operands/130/875
 collapsible: false;
 category:
   - 操作数

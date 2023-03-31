@@ -1,6 +1,7 @@
 ---
 title: PnGT
 icon: state
+next: PnLT
 category:
   - 操作数
 ---

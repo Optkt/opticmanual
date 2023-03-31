@@ -1,6 +1,8 @@
 ---
 title: PATY
 icon: state
+prev: PATX
+next: YNIP
 category:
   - 操作数
 ---

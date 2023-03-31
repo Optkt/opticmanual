@@ -1,6 +1,8 @@
 ---
 title: OPVA
 icon: state
+prev: OPLT
+next: OSUM
 category:
   - 操作数
 ---

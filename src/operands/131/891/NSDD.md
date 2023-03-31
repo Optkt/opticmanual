@@ -1,6 +1,8 @@
 ---
 title: NSDD
 icon: state
+prev: NSDC
+next: NSDE
 category:
   - 操作数
 ---

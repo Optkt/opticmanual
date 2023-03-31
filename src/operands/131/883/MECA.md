@@ -1,6 +1,8 @@
 ---
 title: MECA
 icon: state
+prev: GMTT
+next: MECS
 category:
   - 操作数
 ---

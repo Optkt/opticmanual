@@ -1,6 +1,7 @@
 ---
 title: COGT
 icon: state
+next: COLT
 category:
   - 操作数
 ---

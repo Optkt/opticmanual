@@ -1,6 +1,8 @@
 ---
 title: SFNO
 icon: state
+prev: POWR
+next: TFNO
 category:
   - 操作数
 ---

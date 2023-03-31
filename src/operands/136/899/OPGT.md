@@ -1,6 +1,8 @@
 ---
 title: OPGT
 icon: state
+prev: MINN
+next: OPLT
 category:
   - 操作数
 ---

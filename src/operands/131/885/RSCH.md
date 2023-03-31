@@ -1,6 +1,8 @@
 ---
 title: RSCH
 icon: state
+prev: RSCE
+next: RSRE
 category:
   - 操作数
 ---

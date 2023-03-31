@@ -1,6 +1,8 @@
 ---
 title: POWR
 icon: state
+prev: POWP
+next: SFNO
 category:
   - 操作数
 ---

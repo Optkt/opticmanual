@@ -1,6 +1,8 @@
 ---
 title: ABGT
 icon: state
+prev: TANG
+next: ABLT
 category:
   - 操作数
 ---

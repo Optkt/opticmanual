@@ -1,6 +1,8 @@
 ---
 title: XNEA
 icon: state
+prev: TTVA
+next: XNET
 category:
   - 操作数
 ---

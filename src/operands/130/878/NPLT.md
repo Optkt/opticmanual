@@ -1,6 +1,8 @@
 ---
 title: NPLT
 icon: state
+prev: NPGT
+next: NPVA
 category:
   - 操作数
 ---

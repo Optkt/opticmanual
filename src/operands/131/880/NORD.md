@@ -1,6 +1,8 @@
 ---
 title: NORD
 icon: state
+prev: NORZ
+next: SCUR
 category:
   - 操作数
 ---

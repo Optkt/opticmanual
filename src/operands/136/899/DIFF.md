@@ -1,6 +1,8 @@
 ---
 title: DIFF
 icon: state
+prev: COSI
+next: DIVB
 category:
   - 操作数
 ---

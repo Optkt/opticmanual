@@ -1,6 +1,8 @@
 ---
 title: MXCT
 icon: state
+prev: MXCG
+next: MXCV
 category:
   - 操作数
 ---

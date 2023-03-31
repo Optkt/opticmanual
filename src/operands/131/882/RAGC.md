@@ -1,6 +1,8 @@
 ---
 title: RAGC
 icon: state
+prev: RAGB
+next: RAGX
 category:
   - 操作数
 ---

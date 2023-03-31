@@ -1,6 +1,8 @@
 ---
 title: MNRE
 icon: state
+prev: IMAE
+next: MNRI
 category:
   - 操作数
 ---

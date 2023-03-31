@@ -1,6 +1,8 @@
 ---
 title: TCLT
 icon: state
+prev: TCGT
+next: TCVA
 category:
   - 操作数
 ---

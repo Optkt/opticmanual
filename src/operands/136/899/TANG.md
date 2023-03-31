@@ -1,6 +1,8 @@
 ---
 title: TANG
 icon: state
+prev: SINE
+next: ABGT
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: NSLT
 icon: state
+prev: NSDP
+next: NSRA
 category:
   - 操作数
 ---

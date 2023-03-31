@@ -1,6 +1,8 @@
 ---
 title: MECS
 icon: state
+prev: MECA
+next: MECT
 category:
   - 操作数
 ---

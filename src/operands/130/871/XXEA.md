@@ -1,6 +1,8 @@
 ---
 title: XXEA
 icon: state
+prev: XNEG
+next: XXEG
 category:
   - 操作数
 ---

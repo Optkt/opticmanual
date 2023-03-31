@@ -1,6 +1,8 @@
 ---
 title: ENDX
 icon: state
+prev: DMFS
+next: GOTO
 category:
   - 操作数
 ---

@@ -1,6 +1,7 @@
 ---
 title: USYM
 icon: state
+prev: SKIS
 category:
   - 操作数
 ---

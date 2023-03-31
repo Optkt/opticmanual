@@ -1,6 +1,8 @@
 ---
 title: INDX
 icon: state
+prev: GTCE
+next: MNAB
 category:
   - 操作数
 ---

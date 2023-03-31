@@ -1,6 +1,8 @@
 ---
 title: CTGT
 icon: state
+prev: COVA
+next: CTLT
 category:
   - 操作数
 ---

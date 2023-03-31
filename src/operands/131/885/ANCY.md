@@ -1,6 +1,8 @@
 ---
 title: ANCY
 icon: state
+prev: ANCX
+next: ASTI
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: CNAX
 icon: state
+prev: CENY
+next: CNAY
 category:
   - 操作数
 ---

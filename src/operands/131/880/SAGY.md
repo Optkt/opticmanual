@@ -1,6 +1,8 @@
 ---
 title: SAGY
 icon: state
+prev: SAGX
+next: SSAG
 category:
   - 操作数
 ---

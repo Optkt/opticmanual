@@ -1,6 +1,8 @@
 ---
 title: EPDI
 icon: state
+prev: EFLY
+next: EXPD
 category:
   - 操作数
 ---

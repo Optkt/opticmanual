@@ -1,6 +1,8 @@
 ---
 title: OPTH
 icon: state
+prev: MXRI
+next: PLEN
 category:
   - 操作数
 ---

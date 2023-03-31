@@ -1,6 +1,8 @@
 ---
 title: 热膨胀系数数据
 icon: semantic
+prev: /operands/130/875
+next: /operands/130/877
 collapsible: false;
 category:
   - 操作数

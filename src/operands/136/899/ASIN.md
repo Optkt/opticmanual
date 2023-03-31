@@ -1,6 +1,8 @@
 ---
 title: ASIN
 icon: state
+prev: ACOS
+next: ATAN
 category:
   - 操作数
 ---

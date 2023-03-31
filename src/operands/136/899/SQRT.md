@@ -1,6 +1,8 @@
 ---
 title: SQRT
 icon: state
+prev: RECI
+next: SUMM
 category:
   - 操作数
 ---

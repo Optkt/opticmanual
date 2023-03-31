@@ -1,6 +1,8 @@
 ---
 title: ISNA
 icon: state
+prev: ISFN
+next: LINV
 category:
   - 操作数
 ---

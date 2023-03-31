@@ -1,6 +1,8 @@
 ---
 title: ETLT
 icon: state
+prev: ETGT
+next: ETVA
 category:
   - 操作数
 ---

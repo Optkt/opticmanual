@@ -1,6 +1,7 @@
 ---
 title: ZTHI
 icon: state
+prev: MCOV
 category:
   - 操作数
 ---

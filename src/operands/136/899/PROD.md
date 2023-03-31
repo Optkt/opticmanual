@@ -1,6 +1,8 @@
 ---
 title: PROD
 icon: state
+prev: PROB
+next: QSUM
 category:
   - 操作数
 ---

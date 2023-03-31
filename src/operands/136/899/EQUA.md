@@ -1,6 +1,8 @@
 ---
 title: EQUA
 icon: state
+prev: DIVI
+next: LOGE
 category:
   - 操作数
 ---

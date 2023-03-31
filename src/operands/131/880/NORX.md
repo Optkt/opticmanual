@@ -1,6 +1,8 @@
 ---
 title: NORX
 icon: state
+prev: VOLU
+next: NORY
 category:
   - 操作数
 ---

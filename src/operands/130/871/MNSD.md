@@ -1,6 +1,8 @@
 ---
 title: MNSD
 icon: state
+prev: MXET
+next: MXSD
 category:
   - 操作数
 ---

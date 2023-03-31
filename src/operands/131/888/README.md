@@ -1,6 +1,8 @@
 ---
 title: 相对照度操作数
 icon: engine
+prev: /operands/131/887
+next: /operands/131/890
 collapsible: false;
 category:
   - 操作数

@@ -1,6 +1,8 @@
 ---
 title: DMFS
 icon: state
+prev: BLNK
+next: ENDX
 category:
   - 操作数
 ---

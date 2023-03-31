@@ -1,6 +1,8 @@
 ---
 title: TTVA
 icon: state
+prev: TTLT
+next: XNEA
 category:
   - 操作数
 ---

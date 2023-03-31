@@ -1,6 +1,7 @@
 ---
 title: ABLT
 icon: state
+prev: ABGT
 category:
   - 操作数
 ---

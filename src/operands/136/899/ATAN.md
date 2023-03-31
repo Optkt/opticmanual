@@ -1,6 +1,8 @@
 ---
 title: ATAN
 icon: state
+prev: ASIN
+next: CONS
 category:
   - 操作数
 ---

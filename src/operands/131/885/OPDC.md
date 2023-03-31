@@ -1,6 +1,8 @@
 ---
 title: OPDC
 icon: state
+prev: LONA
+next: OPDM
 category:
   - 操作数
 ---

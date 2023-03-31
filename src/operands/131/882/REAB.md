@@ -1,6 +1,8 @@
 ---
 title: REAB
 icon: state
+prev: REAA
+next: REAC
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: DISC
 icon: state
+prev: DISA
+next: DISG
 category:
   - 操作数
 ---

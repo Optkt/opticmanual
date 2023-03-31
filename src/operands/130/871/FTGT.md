@@ -1,6 +1,8 @@
 ---
 title: FTGT
 icon: state
+prev: ETVA
+next: FTLT
 category:
   - 操作数
 ---

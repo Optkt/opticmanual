@@ -1,6 +1,8 @@
 ---
 title: TMAS
 icon: state
+prev: STHI
+next: TOTR
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: 组件位置约束
 icon: semantic
+prev: /operands/130/872
+next: /operands/130/874
 collapsible: false;
 category:
   - 操作数

@@ -1,6 +1,7 @@
 ---
 title: 非序列光线追迹和探测器
 icon: engine
+prev: /operands/131/890
 collapsible: false;
 category:
   - 操作数

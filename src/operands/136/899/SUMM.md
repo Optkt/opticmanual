@@ -1,6 +1,8 @@
 ---
 title: SUMM
 icon: state
+prev: SQRT
+next: SINE
 category:
   - 操作数
 ---

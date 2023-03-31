@@ -1,6 +1,8 @@
 ---
 title: RENC
 icon: state
+prev: RENB
+next: RETX
 category:
   - 操作数
 ---

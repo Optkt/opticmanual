@@ -1,6 +1,8 @@
 ---
 title: RAID
 icon: state
+prev: RAGZ
+next: RAIN
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: MXDT
 icon: state
+prev: MNDT
+next: SAGX
 category:
   - 操作数
 ---

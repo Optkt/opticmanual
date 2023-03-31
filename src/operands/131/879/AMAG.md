@@ -1,6 +1,7 @@
 ---
 title: AMAG
 icon: state
+next: ENPP
 category:
   - 操作数
 ---

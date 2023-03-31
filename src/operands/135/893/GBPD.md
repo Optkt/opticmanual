@@ -1,6 +1,7 @@
 ---
 title: GBPD
 icon: state
+next: GBPP
 category:
   - 操作数
 ---

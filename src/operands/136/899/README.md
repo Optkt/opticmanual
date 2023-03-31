@@ -1,6 +1,7 @@
 ---
 title: 数学运算
 icon: mesh
+next: /operands/136/900
 collapsible: false;
 category:
   - 操作数

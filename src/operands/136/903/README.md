@@ -1,6 +1,7 @@
 ---
 title: 废弃的操作数
 icon: mesh
+prev: /operands/136/902
 collapsible: false;
 category:
   - 操作数

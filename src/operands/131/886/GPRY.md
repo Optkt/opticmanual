@@ -1,6 +1,8 @@
 ---
 title: GPRY
 icon: state
+prev: GPRX
+next: GPSX
 category:
   - 操作数
 ---

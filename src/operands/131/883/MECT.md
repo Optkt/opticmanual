@@ -1,6 +1,8 @@
 ---
 title: MECT
 icon: state
+prev: MECS
+next: MSWA
 category:
   - 操作数
 ---

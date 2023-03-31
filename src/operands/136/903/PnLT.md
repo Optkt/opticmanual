@@ -1,6 +1,8 @@
 ---
 title: PnLT
 icon: state
+prev: PnGT
+next: PnVA
 category:
   - 操作数
 ---

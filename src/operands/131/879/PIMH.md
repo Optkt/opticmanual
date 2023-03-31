@@ -1,6 +1,8 @@
 ---
 title: PIMH
 icon: state
+prev: OBSN
+next: PMAG
 category:
   - 操作数
 ---

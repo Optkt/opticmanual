@@ -1,6 +1,8 @@
 ---
 title: 光纤耦合操作数
 icon: engine
+prev: /operands/131/886
+next: /operands/131/888
 collapsible: false;
 category:
   - 操作数

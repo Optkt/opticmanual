@@ -1,6 +1,8 @@
 ---
 title: RAIN
 icon: state
+prev: RAID
+next: RANG
 category:
   - 操作数
 ---

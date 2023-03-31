@@ -1,6 +1,8 @@
 ---
 title: MXSD
 icon: state
+prev: MNSD
+next: OMMI
 category:
   - 操作数
 ---

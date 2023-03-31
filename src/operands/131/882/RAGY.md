@@ -1,6 +1,8 @@
 ---
 title: RAGY
 icon: state
+prev: RAGX
+next: RAGZ
 category:
   - 操作数
 ---

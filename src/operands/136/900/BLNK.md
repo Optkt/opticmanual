@@ -1,6 +1,7 @@
 ---
 title: BLNK
 icon: state
+next: DMFS
 category:
   - 操作数
 ---

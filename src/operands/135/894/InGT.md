@@ -1,6 +1,8 @@
 ---
 title: InGT
 icon: state
+prev: GRMX
+next: InLT
 category:
   - 操作数
 ---

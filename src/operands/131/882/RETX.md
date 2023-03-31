@@ -1,6 +1,8 @@
 ---
 title: RETX
 icon: state
+prev: RENC
+next: RETY
 category:
   - 操作数
 ---

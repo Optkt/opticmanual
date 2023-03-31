@@ -1,6 +1,8 @@
 ---
 title: COMA
 icon: state
+prev: BSER
+next: DIMX
 category:
   - 操作数
 ---

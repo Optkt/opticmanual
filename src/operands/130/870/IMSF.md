@@ -1,6 +1,8 @@
 ---
 title: IMSF
 icon: state
+prev: CONF
+next: PRIM
 category:
   - 操作数
 ---

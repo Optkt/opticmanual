@@ -1,6 +1,8 @@
 ---
 title: ASTI
 icon: state
+prev: ANCY
+next: AXCL
 category:
   - 操作数
 ---

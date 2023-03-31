@@ -1,6 +1,8 @@
 ---
 title: OSUM
 icon: state
+prev: OPVA
+next: PROB
 category:
   - 操作数
 ---

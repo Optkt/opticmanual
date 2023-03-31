@@ -1,6 +1,8 @@
 ---
 title: RANG
 icon: state
+prev: RAIN
+next: REAA
 category:
   - 操作数
 ---

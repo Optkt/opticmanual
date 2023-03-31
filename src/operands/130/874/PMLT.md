@@ -1,6 +1,8 @@
 ---
 title: PMLT
 icon: state
+prev: PMGT
+next: PMVA
 category:
   - 操作数
 ---

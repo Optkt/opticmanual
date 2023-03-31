@@ -1,6 +1,8 @@
 ---
 title: CIGT
 icon: state
+prev: CEVA
+next: CILT
 category:
   - 操作数
 ---

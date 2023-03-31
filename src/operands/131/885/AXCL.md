@@ -1,6 +1,8 @@
 ---
 title: AXCL
 icon: state
+prev: ASTI
+next: BIOC
 category:
   - 操作数
 ---

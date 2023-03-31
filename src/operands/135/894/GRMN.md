@@ -1,6 +1,8 @@
 ---
 title: GRMN
 icon: state
+prev: DLTN
+next: GRMX
 category:
   - 操作数
 ---

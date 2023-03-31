@@ -1,6 +1,8 @@
 ---
 title: 实际光线数据约束
 icon: engine
+prev: /operands/131/881
+next: /operands/131/883
 collapsible: false;
 category:
   - 操作数

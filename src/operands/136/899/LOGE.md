@@ -1,6 +1,8 @@
 ---
 title: LOGE
 icon: state
+prev: EQUA
+next: LOGT
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: 玻璃数据约束
 icon: semantic
+prev: /operands/130/871
+next: /operands/130/873
 collapsible: false;
 category:
   - 操作数

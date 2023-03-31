@@ -1,6 +1,8 @@
 ---
 title: LOGT
 icon: state
+prev: LOGE
+next: MAXX
 category:
   - 操作数
 ---

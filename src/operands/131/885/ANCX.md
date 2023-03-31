@@ -1,6 +1,8 @@
 ---
 title: ANCX
 icon: state
+prev: ANAY
+next: ANCY
 category:
   - 操作数
 ---

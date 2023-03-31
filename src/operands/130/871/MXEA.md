@@ -1,6 +1,8 @@
 ---
 title: MXEA
 icon: state
+prev: MXCV
+next: MXEG
 category:
   - 操作数
 ---

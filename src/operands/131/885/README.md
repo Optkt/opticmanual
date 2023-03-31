@@ -1,6 +1,8 @@
 ---
 title: 像差
 icon: engine
+prev: /operands/131/884
+next: /operands/131/886
 collapsible: false;
 category:
   - 操作数

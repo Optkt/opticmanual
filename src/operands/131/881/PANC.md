@@ -1,6 +1,8 @@
 ---
 title: PANC
 icon: state
+prev: PANB
+next: PARA
 category:
   - 操作数
 ---

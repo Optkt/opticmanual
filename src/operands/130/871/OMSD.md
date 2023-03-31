@@ -1,6 +1,8 @@
 ---
 title: OMSD
 icon: state
+prev: OMMX
+next: TGTH
 category:
   - 操作数
 ---

@@ -1,6 +1,7 @@
 ---
 title: CVOL
 icon: state
+next: MNDT
 category:
   - 操作数
 ---

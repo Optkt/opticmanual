@@ -1,6 +1,8 @@
 ---
 title: EFLX
 icon: state
+prev: EFFL
+next: EFLY
 category:
   - 操作数
 ---

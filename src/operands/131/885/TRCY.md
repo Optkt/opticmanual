@@ -1,6 +1,8 @@
 ---
 title: TRCY
 icon: state
+prev: TRCX
+next: ZERN
 category:
   - 操作数
 ---

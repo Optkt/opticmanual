@@ -1,6 +1,7 @@
 ---
 title: GPSY
 icon: state
+prev: GPSX
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: NSST
 icon: state
+prev: NSRW
+next: NSTR
 category:
   - 操作数
 ---

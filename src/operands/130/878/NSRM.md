@@ -1,6 +1,8 @@
 ---
 title: NSRM
 icon: state
+prev: NPZV
+next: NTXG
 category:
   - 操作数
 ---

@@ -1,6 +1,7 @@
 ---
 title: CMGT
 icon: state
+next: CMLT
 category:
   - 操作数
 ---

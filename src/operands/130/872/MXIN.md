@@ -1,6 +1,8 @@
 ---
 title: MXIN
 icon: state
+prev: MXAB
+next: MXPD
 category:
   - 操作数
 ---

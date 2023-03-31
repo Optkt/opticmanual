@@ -1,6 +1,8 @@
 ---
 title: 用户自定义操作数
 icon: mesh
+prev: /operands/136/901
+next: /operands/136/903
 collapsible: false;
 category:
   - 操作数

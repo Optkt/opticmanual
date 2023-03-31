@@ -1,6 +1,7 @@
 ---
 title: WFNO
 icon: state
+prev: TFNO
 category:
   - 操作数
 ---

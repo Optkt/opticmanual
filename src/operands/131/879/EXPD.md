@@ -1,6 +1,8 @@
 ---
 title: EXPD
 icon: state
+prev: EPDI
+next: EXPP
 category:
   - 操作数
 ---

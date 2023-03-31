@@ -1,6 +1,8 @@
 ---
 title: XENC
 icon: state
+prev: GENF
+next: XENF
 category:
   - 操作数
 ---

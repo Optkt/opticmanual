@@ -1,6 +1,8 @@
 ---
 title: MNEG
 icon: state
+prev: MNEA
+next: MNET
 category:
   - 操作数
 ---

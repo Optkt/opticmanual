@@ -1,6 +1,8 @@
 ---
 title: LINV
 icon: state
+prev: ISNA
+next: OBSN
 category:
   - 操作数
 ---

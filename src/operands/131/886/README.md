@@ -1,6 +1,8 @@
 ---
 title: 鬼像聚焦控制
 icon: engine
+prev: /operands/131/885
+next: /operands/131/887
 collapsible: false;
 category:
   - 操作数

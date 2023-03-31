@@ -1,6 +1,8 @@
 ---
 title: FDMO
 icon: state
+prev: CVIG
+next: FDRE
 category:
   - 操作数
 ---

@@ -1,6 +1,8 @@
 ---
 title: SSAG
 icon: state
+prev: SAGY
+next: STHI
 category:
   - 操作数
 ---

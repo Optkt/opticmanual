@@ -1,6 +1,8 @@
 ---
 title: NSRD
 icon: state
+prev: NSRA
+next: NSRM
 category:
   - 操作数
 ---

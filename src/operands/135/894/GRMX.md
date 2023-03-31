@@ -1,6 +1,8 @@
 ---
 title: GRMX
 icon: state
+prev: GRMN
+next: InGT
 category:
   - 操作数
 ---

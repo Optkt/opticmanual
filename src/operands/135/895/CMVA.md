@@ -1,6 +1,8 @@
 ---
 title: CMVA
 icon: state
+prev: CMLT
+next: CODA
 category:
   - 操作数
 ---

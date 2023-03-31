@@ -1,6 +1,8 @@
 ---
 title: LACL
 icon: state
+prev: FCUR
+next: LONA
 category:
   - 操作数
 ---

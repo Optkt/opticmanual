@@ -1,6 +1,7 @@
 ---
 title: GBSW
 icon: state
+prev: GBSS
 category:
   - 操作数
 ---

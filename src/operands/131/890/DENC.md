@@ -1,6 +1,7 @@
 ---
 title: DENC
 icon: state
+next: DENF
 category:
   - 操作数
 ---

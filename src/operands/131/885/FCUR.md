@@ -1,6 +1,8 @@
 ---
 title: FCUR
 icon: state
+prev: FCGT
+next: LACL
 category:
   - 操作数
 ---

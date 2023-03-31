@@ -1,6 +1,8 @@
 ---
 title: MTHA
 icon: state
+prev: MTFT
+next: MTHS
 category:
   - 操作数
 ---

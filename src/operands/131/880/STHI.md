@@ -1,6 +1,8 @@
 ---
 title: STHI
 icon: state
+prev: SSAG
+next: TMAS
 category:
   - 操作数
 ---

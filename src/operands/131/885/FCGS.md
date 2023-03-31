@@ -1,6 +1,8 @@
 ---
 title: FCGS
 icon: state
+prev: DIST
+next: FCGT
 category:
   - 操作数
 ---

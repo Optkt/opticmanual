@@ -1,6 +1,7 @@
 ---
 title: PMGT
 icon: state
+next: PMLT
 category:
   - 操作数
 ---

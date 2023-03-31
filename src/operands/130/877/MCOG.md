@@ -1,6 +1,8 @@
 ---
 title: MCOG
 icon: state
+prev: CONF
+next: MCOL
 category:
   - 操作数
 ---

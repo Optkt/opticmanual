@@ -1,6 +1,8 @@
 ---
 title: CVIG
 icon: state
+prev: WLEN
+next: FDMO
 category:
   - 操作数
 ---

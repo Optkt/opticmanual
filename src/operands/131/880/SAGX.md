@@ -1,6 +1,8 @@
 ---
 title: SAGX
 icon: state
+prev: MXDT
+next: SAGY
 category:
   - 操作数
 ---
