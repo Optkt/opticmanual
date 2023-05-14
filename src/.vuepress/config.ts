@@ -13,7 +13,17 @@ export default defineUserConfig({
   },
 
   theme,
+  head:[[ 'script', {}, `
+     var _hmt = _hmt || [];
+   (function() {
+   var hm = document.createElement("script");
+   hm.src = "https://hm.baidu.com/hm.js?0553e847de8033cac994231df28be7fe";
+   var s = document.getElementsByTagName("script")[0];
+   s.parentNode.insertBefore(hm, s); })();
+     `
+ ]],
   
   // Enable it with pwa
   // shouldPrefetch: false,
 });
+
